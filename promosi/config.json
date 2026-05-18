@@ -1,0 +1,163 @@
+{
+  "company": {
+    "name": "PT. JASA SERVIS",
+    "tagline": "Solusi Lengkap untuk Servis Rumah Anda",
+    "description": "Kami menyediakan layanan profesional dan terpercaya untuk servis alat elektronik, prabotan, dan cleaning house dengan harga terjangkau.",
+    "founded": 2015,
+    "experience": "10+ tahun"
+  },
+  "contact": {
+    "address": "Jl. Merdeka No. 123, Jakarta Timur, 13210",
+    "phone": "(021) 8765-432",
+    "whatsapp": "0828-1234-5678",
+    "email": "info@jasaservis.com",
+    "operationalHours": {
+      "weekday": "09:00 - 17:00",
+      "saturday": "10:00 - 15:00",
+      "sunday": "Closed"
+    }
+  },
+  "social": {
+    "facebook": "https://facebook.com/jasaservis",
+    "instagram": "https://instagram.com/jasaservis",
+    "twitter": "https://twitter.com/jasaservis",
+    "youtube": "https://youtube.com/@jasaservis"
+  },
+  "services": [
+    {
+      "id": "elektronik",
+      "name": "Servis Alat Elektronik",
+      "icon": "fa-microchip",
+      "color": "#0066cc",
+      "description": "Kami menyediakan layanan servis untuk berbagai alat elektronik.",
+      "items": [
+        {
+          "name": "Kulkas",
+          "description": "Perbaikan sistem pendingin, kompresor, thermostat"
+        },
+        {
+          "name": "Mesin Cuci",
+          "description": "Perawatan drum, motor, valve"
+        },
+        {
+          "name": "AC & Pendingin",
+          "description": "Cleaning coil, isi freon, perbaikan kompressor"
+        },
+        {
+          "name": "Rice Cooker & Oven",
+          "description": "Perbaikan pemanas, regulator"
+        },
+        {
+          "name": "TV & Audio System",
+          "description": "Service elektronik, penggantian spare parts"
+        }
+      ],
+      "benefits": [
+        "Teknisi berpengalaman lebih dari 5 tahun",
+        "Suku cadang original berkualitas",
+        "Garansi pekerjaan hingga 1 bulan",
+        "Harga transparan tanpa biaya tersembunyi"
+      ]
+    },
+    {
+      "id": "prabotan",
+      "name": "Servis Prabotan",
+      "icon": "fa-couch",
+      "color": "#ff6b35",
+      "description": "Perbaikan dan perawatan furnitur berkualitas.",
+      "items": [
+        {
+          "name": "Sofa & Kursi",
+          "description": "Perbaikan kusus, penggantian kain, perawatan kayu"
+        },
+        {
+          "name": "Meja & Rak",
+          "description": "Finishing, perbaikan kayu, penggantian hardware"
+        },
+        {
+          "name": "Kasur & Springbed",
+          "description": "Perbaikan pegas, penggantian kain, sterilisasi"
+        },
+        {
+          "name": "Pintu & Jendela",
+          "description": "Perbaikan engsel, cat, penggantian kaca"
+        },
+        {
+          "name": "Cat & Finishing",
+          "description": "Pengecatan ulang, varnish, pewarnaan"
+        }
+      ],
+      "benefits": [
+        "Pengrajin berpengalaman puluhan tahun",
+        "Bahan berkualitas tinggi",
+        "Hasil rapi dan tahan lama",
+        "Konsultasi desain gratis"
+      ]
+    },
+    {
+      "id": "cleaning",
+      "name": "Cleaning House",
+      "icon": "fa-broom",
+      "color": "#04a777",
+      "description": "Layanan pembersihan rumah yang menyeluruh.",
+      "items": [
+        {
+          "name": "Pembersihan Dapur",
+          "description": "Exhaust, kompor, lemari, lantai"
+        },
+        {
+          "name": "Pembersihan Kamar Mandi",
+          "description": "Toilet, bathtub, ubin, cermin"
+        },
+        {
+          "name": "Vakum & Pengkebun",
+          "description": "Lantai kayu, karpet, taman"
+        },
+        {
+          "name": "Deep Cleaning",
+          "description": "Pembersihan menyeluruh hingga sela-sela"
+        },
+        {
+          "name": "Pembersihan Karpet",
+          "description": "Dry cleaning, steam cleaning"
+        }
+      ],
+      "benefits": [
+        "Tim profesional terlatih",
+        "Produk eco-friendly & aman",
+        "Jasa penuh dan cepat",
+        "Harga paket menarik"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "title": "Profesional",
+      "description": "Tim ahli berpengalaman",
+      "icon": "fa-check-circle"
+    },
+    {
+      "title": "Cepat",
+      "description": "Respons cepat 24 jam",
+      "icon": "fa-clock"
+    },
+    {
+      "title": "Terjangkau",
+      "description": "Harga kompetitif",
+      "icon": "fa-tag"
+    },
+    {
+      "title": "Garansi",
+      "description": "Garansi kepuasan",
+      "icon": "fa-award"
+    }
+  ],
+  "theme": {
+    "primaryColor": "#0066cc",
+    "secondaryColor": "#ff6b35",
+    "tertiaryColor": "#04a777",
+    "lightBg": "#f8f9fa",
+    "darkText": "#333",
+    "grayText": "#666"
+  }
+}
